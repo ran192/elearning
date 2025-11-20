@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+reports/
+charts/
+
+.ipynb_checkpoints/
+
+.vscode/
+*.idea/
